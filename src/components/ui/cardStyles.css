@@ -1,0 +1,17 @@
+.card {
+    width: 20rem!important;
+}
+
+@media screen and(min-width: 767px) {
+    
+    .location-card {
+        /* margin-left: 25rem!important; */
+        background-color: red;
+    }
+}
+
+@media screen and(max-width:768px) {
+    .location-card {
+        /* margin-right: 25rem!important; */
+    }
+}

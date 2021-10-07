@@ -1,0 +1,10 @@
+.findMe {
+    padding: 1rem!important;
+}
+
+.button-component {
+    width: 10rem;
+    z-index: 1000;
+    left: 0;
+    top: auto;
+}
